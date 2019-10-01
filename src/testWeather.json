@@ -1,0 +1,156 @@
+{
+    "list":[
+        {
+            "coord": {
+                "lon": -96.81,
+                "lat": 32.78
+            },
+            "sys": {
+                "country": "US",
+                "timezone": -18000,
+                "sunrise": 1569846027,
+                "sunset": 1569888838
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "broken clouds",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 91.87,
+                "pressure": 1014,
+                "humidity": 49,
+                "temp_min": 90,
+                "temp_max": 93.99
+            },
+            "visibility": 16093,
+            "wind": {
+                "speed": 9.17,
+                "deg": 150
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1569881369,
+            "id": 4684888,
+            "name": "Dallas"
+        },
+        {
+            "coord": {
+                "lon": -87.91,
+                "lat": 43.04
+            },
+            "sys": {
+                "country": "US",
+                "timezone": -18000,
+                "sunrise": 1569844048,
+                "sunset": 1569886546
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 82.83,
+                "pressure": 1012,
+                "humidity": 58,
+                "temp_min": 81,
+                "temp_max": 84.2
+            },
+            "visibility": 16093,
+            "wind": {
+                "speed": 12.75,
+                "deg": 200
+            },
+            "clouds": {
+                "all": 5
+            },
+            "dt": 1569881371,
+            "id": 5263045,
+            "name": "Milwaukee"
+        },
+        {
+            "coord": {
+                "lon": -97.71,
+                "lat": 39.12
+            },
+            "sys": {
+                "country": "US",
+                "timezone": -18000,
+                "sunrise": 1569846336,
+                "sunset": 1569888960
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 87.3,
+                "pressure": 1011,
+                "humidity": 48,
+                "temp_min": 84.99,
+                "temp_max": 91.4
+            },
+            "visibility": 16093,
+            "wind": {
+                "speed": 19.46,
+                "deg": 190
+            },
+            "clouds": {
+                "all": 1
+            },
+            "dt": 1569881382,
+            "id": 4275586,
+            "name": "Minneapolis"
+        },
+        {
+            "coord": {
+                "lon": -88.3,
+                "lat": 17.8
+            },
+            "sys": {
+                "country": "BZ",
+                "timezone": -21600,
+                "sunrise": 1569843795,
+                "sunset": 1569886985
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02d"
+                }
+            ],
+            "main": {
+                "temp": 89.6,
+                "pressure": 1008,
+                "humidity": 70,
+                "temp_min": 89.6,
+                "temp_max": 89.6
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 9.17,
+                "deg": 80
+            },
+            "clouds": {
+                "all": 20
+            },
+            "dt": 1569881484,
+            "id": 3582383,
+            "name": "Chicago"
+        }
+    ]
+}
